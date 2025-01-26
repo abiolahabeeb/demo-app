@@ -9,6 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>This project demonstrates how to automate the deployment of a React application using GitHub Actions. By creating a CI/CD pipeline with GitHub workflows, any changes pushed to the repository trigger an automated build and deployment process.</p>
+        <p>By AB</p>
         <a
           className="App-link"
           href="https://reactjs.org"
